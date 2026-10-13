@@ -1,0 +1,1 @@
+"# 3omlat2"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/Mustafapha/3omlat2.gitgit push -u origin main
